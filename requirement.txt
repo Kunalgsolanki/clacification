@@ -1,4 +1,5 @@
  streamlit
  numpy
+ sklearn
  scikit-learn
  matplotlib
