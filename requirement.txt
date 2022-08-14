@@ -10,3 +10,4 @@ sklearn.neighbors
 sklearn.ensemble
 sklearn.metrics
 matplotlib.pyplot
+from sklearn import datasets
