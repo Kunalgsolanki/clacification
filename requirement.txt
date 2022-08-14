@@ -1,5 +1,6 @@
 streamlit 
 numpy 
+scikit-learn
 sklearn
 matplotlib
 sklearn.model_selection
