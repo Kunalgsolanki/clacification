@@ -1,13 +1,4 @@
-streamlit 
-numpy 
-scikit-learn
-sklearn
-matplotlib
-sklearn.model_selection
-sklearn.svm
-sklearn -datasets
-sklearn.neighbors
-sklearn.ensemble
-sklearn.metrics
-matplotlib.pyplot
-from sklearn import datasets
+ streamlit
+ numpy
+ scikit-learn
+ matplotlib
