@@ -4,7 +4,7 @@ sklearn
 matplotlib
 sklearn.model_selection
 sklearn.svm
-sklearn.dataset
+sklearn -datasets
 sklearn.neighbors
 sklearn.ensemble
 sklearn.metrics
